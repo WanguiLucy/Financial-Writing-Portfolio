@@ -1,7 +1,9 @@
 # Financial Writing Portfolio
 
 **Name:** Lucy Wangui (Lucylight)
+
 **Location:** Kenya
+
 **Focus:** African finance, banking, and economic trends — backed by data
 
 ---
