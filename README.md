@@ -20,16 +20,9 @@ While most financial analysis focuses on Western markets, critical stories about
 
 ---
 
-## Articles & Supporting Data
+## How to Use This Repository
 
-### 1. Is Your Bank Safe?
-> *Publishing this weekend*
-
-- 📄 Article: *(Medium link to be added on publication)*
-- 📁 Data & Code: `/is-your-bank-safe`
-  - `analysis.sql` — SQL queries used in the analysis
-  - `dataset.csv` — CBK banking sector data
-  - `findings.md` — Key findings and insights
+Each article I publish on Medium has a companion folder in this repo. Inside each folder you will find the dataset used, the SQL scripts behind the analysis, and additional findings that did not make it into the article. Browse the folders to dig into the data yourself, replicate the analysis, or take it further.
 
 ---
 
